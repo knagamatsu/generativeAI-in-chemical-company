@@ -1,0 +1,27 @@
+date,company,category,use_case,status,effect,partner,url
+2024-10-01,富士フイルム,全社,社内向け生成AIサービス「Fujifilm AIChat」によるDX推進・研究開発における材料探索（MI）・サービスエンジニア支援・診断レポート作成,本番運用,診断レポート作成時間2時間以内に短縮,未記載,https://ir.fujifilm.com/ja/investors/ir-materials/integrated-report/main/00/teaserItems1/01/linkList/0/link/fh_2024_allj_a4.pdf
+2024-07-01,信越化学,研究開発,材料探索における生成AI活用（物質構造スクリーニング・自動白棒計算）,実施中,具体的な数値なし,未記載,https://www.shinetsu.co.jp/wp-content/uploads/2024/07/統合報告書2024（閲覧推奨）.pdf
+2023-09-13,三井化学,研究開発,新規用途探索（GPTとIBM Watson融合）,実証実験,辞書作成数10倍増加・用途抽出効率3倍向上・新規用途発見数2倍増加,IBM,https://jp.mitsuichemicals.com/jp/release/2023/2023_0913/index.htm
+2023-10-24,住友化学,全社,社内向け生成AIサービス「ChatSCC」による業務効率化,本番運用,典型的業務で最大50%以上の効率化,未記載,https://www.sumitomo-chem.co.jp/news/detail/20231024.html
+2023-06-19,AGC,全社,社内向け対話型AI「ChatAGC」による業務効率化,本番運用,具体的な数値なし,未記載,https://www.agc.com/news/detail/1203293_1767.html
+2024-04-04,レゾナック,研究開発・業務効率化,研究データ活用・特許調査・文書作成（25以上のアプリケーション）,本番運用,作業時間を5分の1に短縮,未記載,https://xtech.nikkei.com/atcl/nxt/column/18/00001/09054/
+2024-09-25,日本ペイント,全社,ChatGPTによる業務効率化（翻訳・文章添削・議事録作成・プログラムコード作成等12パターン）,全社展開準備中,非コア業務が半分以下に削減,未記載,https://www.yokogawa.co.jp/about/yokogawa/analytics-and-ai/blog/
+2024-04-19,花王,マーケティング・分析,マーケティング戦略立案・トレンド分析における生成AI活用（ハッカソン4チーム開発）,実証実験,プロトタイプ4種類を3日間で開発,LTS・FPTジャパン,https://lt-s.jp/news/pressrelease/2024-04-19
+2022-12-20,三菱ケミカルシステム,カスタマーサポート,ヘルプデスク向けAIチャットボット「Alli」による問合せ自動応答,本番運用,月間5000件の問合せ自動化・応答精度75%以上達成,Allganize,https://blog-ja.allganize.ai/casestudy2212/
+2024-08-08,AGC,全社,社内向け生成AI「ChatAGC」へのRAG機能追加(開発・製造・営業・戦略企画での活用),本番運用,過去の技術情報活用・トラブル対応・顧客ニーズ把握等の効率化,未記載,https://www.agc.com/news/detail/1207106_2148.html
+2023-12-08,ライオン,研究開発,生成AIと検索システムを用いた「知識伝承のAI化」ツールの開発と研究領域での検証完了,試験運用中,文書取得時間を従来の約5分の1に短縮し、業務効率の大幅な向上を確認,未記載,https://www.lion.co.jp/ja/news/2023/4464/
+2023-11-09,TOPPANホールディングス,社内システム開発,生成AIを活用した社内システムプログラム開発の効率化,運用中,業務時間を最大約70%短縮,内製,https://www.holdings.toppan.com/ja/news/2023/11/newsrelease231109_1.html
+2024-09-25,TOPPANエッジ,業務効率化,生成AIの回答精度向上を実現する新RAGサービスの共同開発,共同開発中,生成AIの回答精度が約2割向上,PKSHAグループ,https://www.holdings.toppan.com/ja/news/2024/09/newsrelease240925_2.html
+2024-06-05,積水化学工業,サステナビリティ,再生材マーケットプレイスシステムの実証実験,実証完了,再生材の活用促進に向けたシステムの有用性を確認,日立ハイテク・日立製作所,https://www.sekisui.co.jp/news/2024/1403781_41090.html
+2024-11-07,デクセリアルズ,研究開発,生成AIを用いた技術領域の自動可視化システムの構築,構築開始,新規事業探索の効率化と知見の組織化を目指す,三菱総合研究所,https://www.dexerials.jp/news/2024/news24053.html
+2023-11-14,帝人,全社,社内業務効率化を目的とした生成AIサービス「chatテイジン」の導入,試用期間中,文章作成・翻訳・要約・データ分析などの日常業務の生産性向上を目指す,内製,https://www.teijin.co.jp/news/2023/11/14/20231114_01.pdf
+2024-06-13,東レエンジニアリング,設計業務,PLMソフトウェア「Obbligato」と生成AIを活用した設計業務の高度化,実証開始,設計者の質問に対する効率的かつ高精度な回答提供を目指す,NEC,https://www.toray-eng.co.jp/news/2024/20240613.html
+2023-12-25,トクヤマ,全社,社内向け生成AIサービス「TokuyamaGPT」の構築,本格運用開始,文章作成や企画発案の効率化、業務工数の削減を目指す,Azure OpenAI Service,https://www.tokuyama.co.jp/news/2023/2023122502.html
+2024-09-11,日東電工,業務改善,DataRobot生成AIソリューションの導入による業務プロセス改善,PoV完了,業務プロセスの効率化と品質向上を目指す,DataRobot,https://www.datarobot.com/jp/blog/nitto-explores-new-possibilities-with-introduction-of-datarobot-generation-ai-solution/
+2024-07-01,味の素,全社,データマネジメント基盤「ADAMS」の構築と生成AIを活用したチャットボットの開発,推進中,データ活用による業務効率化と新たな価値創出を目指す,未記載,https://www.ajinomoto.co.jp/company/jp/ir/event/business_briefing/main/011114/teaserItems1/01/linkList/02/link/DX_0701.pdf
+2024-10-07,大阪ガス,環境評価,生成AIを活用したカーボンクレジット評価システムの開発,開発中,カーボンクレジットの品質評価の効率化と精度向上を目指す,Amazon Web Services,https://aws.amazon.com/jp/blogs/news/osaka-gas-carbon-credit-rating-system-with-generative-ai-introduction-1/
+2024-10-10,東京ガス,全社,生成AI搭載の社内アプリ「AIGNIS」の開発と利用開始,運用中,問い合わせ対応時間の削減とOne to Oneマーケティングの加速,NTTデータ,https://www.tokyo-gas.co.jp/news/topics/20241010-02.html
+2024-06-06,レゾナック,全社,社内向け生成AIツール「ユーザーローカル ChatAI」の導入,運用中,業務効率化と生産性向上を目指す,ユーザーローカル,https://www.userlocal.jp/press/20240606rc/
+2024-06-13,ニコン,全社,生成AIの活用に関する社内アンケートの実施(5月に導入),検証中,社員の生成AI利用状況と意識の把握を目的,未記載,https://japan.zdnet.com/article/35209163/
+2024-12-09,旭化成,研究開発・製造,生成AIを活用した新規用途探索の自動化と製造現場の技術伝承,運用中(2023年12月から),用途選別時間を約40%短縮、危険予知の精度向上,未記載,https://prtimes.jp/main/html/rd/p/000000168.000079452.html
+2024-12-25,三井化学,研究開発,生成AIを活用した特許チャットの開発,実証実験中,特許調査時間を80%削減,未記載,https://jp.mitsuichemicals.com/jp/release/2024/2024_1225/index.htm
